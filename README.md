@@ -1,1 +1,1 @@
-# docker-symfony-template
+# Template for dockerized symfony applications
