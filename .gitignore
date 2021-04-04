@@ -10,3 +10,5 @@ source/public/bundles/
 source/var/
 source/vendor/
 ###< symfony/framework-bundle ###
+
+.idea
