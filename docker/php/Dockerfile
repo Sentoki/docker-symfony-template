@@ -1,4 +1,6 @@
-FROM php:8.0-fpm
+FROM php:8.1-fpm
+
+WORKDIR /app
 
 ENV PHP_IDE_CONFIG "serverName=application.local"
 
